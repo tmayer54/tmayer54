@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmayer54
-- 👀 I’m interested in C / Linux
-- 🌱 I’m currently learning C
+- 👀 I’m interested in Linux / Networking / OOP
+- 🌱 I’m currently learning C / JAVA / Networking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
