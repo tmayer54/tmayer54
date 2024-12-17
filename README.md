@@ -16,7 +16,7 @@ I am a French Engineering student at **UTBM** specializing in **software develop
 - **Tools**: Unity, Excel, Linux/Windows   
 - **Software Design**: UML, Agile Methods, Object-Oriented Design  
 - **AI**: Multi-Agent Systems, Reinforcement Learning, Optimization Algorithms
-- **WEB**: HTML, CSS, PHP, SQL, Angular
+- **WEB**: HTML, CSS, PHP, JavaScript, SQL, Angular
 
 ---
 
