@@ -64,6 +64,7 @@ Built gameplay mechanics, UI interactions, and scene management.
 
 Email: **thibault.mayer54@gmail.com**  
 Phone: **+33 6 51 51 94 82**
+Website: https://tmayer54.github.io/portfolio/
 
 ---
 
